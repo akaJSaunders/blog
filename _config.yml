@@ -1,22 +1,20 @@
-title: Hello, world! I'm David Freeman
+title: Hello, world! I'm Juliano Saunders
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hello, world! I'm Juliano Saunders, ill be blogging about tech, lifestyle, nerdy stuff and more!
 permalink: ':title/'
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Juliano Saunders # add your name
-author-img: david-freeman.jpg # add your photo
-about-author: I am a developer. Always hungry to keep learning. # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github:  # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+author: Juliano Saunders
+author-img: david-freeman.jpg
+about-author: I am a developer and wannabe blogger. 
+social-twitter: akaJSaunders
+social-facebook: juliano.saunders
+social-github:  AkaJSaunders
+social-linkedin: juliano-saunders
+social-email: me@jsaunders.dev
 
 # Disqus
 discus-identifier:  # add your discus identifier
